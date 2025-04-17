@@ -1,5 +1,6 @@
 import random
 import streamlit as st
+from gen import 
 
 st.set_page_config(page_title="Power Generator", layout="centered")
 st.title("Power Generator")
@@ -14,4 +15,4 @@ def main():
     3. Displaying the final power details.
     """
     if st.button("Generate Classes 📃"):
-        abundance_roll = random.randint(1, 9)
+       
