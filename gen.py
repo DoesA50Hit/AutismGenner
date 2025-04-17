@@ -1,10 +1,8 @@
 import random
-from lib import CLASSES, WORDS
+from lib import CLASSES
 
 def generate_random_class():
-  """
-  Pick a random class and return it
-  """
-  char_class = random.choice(list(CLASSES.keys()))
-  return char_class
-
+    """
+    Pick a random class from CLASSES and return its name
+    """
+    return random.choice(list(CLASSES.keys()))
