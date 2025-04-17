@@ -11,7 +11,7 @@ WORDS = [word for word in list(adjectives) + list(nouns) if isinstance(word, str
 
 CLASSES = {
     "Blaster" : "You attack from range with precision or overwhelming force—but your power falters up close. + 2 range, +1 control",
-    "Striker" : "You need physical contact to activate your power, turning touch into a weapon or tool. + 2 attack, +2 control, 0 range +1 speed"
+    "Striker" : "You need physical contact to activate your power, turning touch into a weapon or tool. + 2 attack, +2 control, 0 range +1 speed",
     "Shaker" :  "You alter the battlefield itself, but your control weakens with distance from the epicenter. +2 range, +1 control",
     "Mover" : "You defy movement laws (speed, flight, teleportation etc.), but momentum or cooldowns limit you. +3 speed",
     "Master" :  "You control minions, illusions, or emotions—but your influence wanes if your ‘puppets’ are destroyed. +2 control, -1 speed, +2 range",
