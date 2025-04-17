@@ -14,5 +14,6 @@ def main():
     3. Displaying the final power details.
     """
     if st.button("Generate Classes 📃"):
-
+        abundance_roll = random.randint(1, 9)
     if st.button("Generate Level and word"):
+        abundance_roll = random.randint(1, 9)
