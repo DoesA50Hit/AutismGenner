@@ -34,5 +34,5 @@ CLASSES = {
     "Zenith" = "Your power peaks during specific, rare situational and is inert otherwise. +3 attack, +1 speed, -2 control",
     "Gambling" = "Your power scales with risk—the more you stake (health, memories, allies etc), the greater the reward. But the house always wins eventually. + 2 to everything but 0 in control",
     "Thread" = "You create connections between things, transferring properties along them. + 3 range, +2 control, -2 attack",
-    "Anchor" =  "You negate or cancel specific phenomena that are not the norm of reality such as powers, but cannot create anything yourself. Max Control for your level, Auto 0 in your attack
+    "Anchor" =  "You negate or cancel specific phenomena that are not the norm of reality such as powers, but cannot create anything yourself. Max Control for your level, Auto 0 in your attack"
 }
