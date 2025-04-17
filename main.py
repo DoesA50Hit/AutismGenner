@@ -1,6 +1,7 @@
 import random
 import streamlit as st
 from gen import generate_random_class
+from lib import CLASSES  # Import CLASSES from lib.py
 
 st.set_page_config(page_title="Power Generator", layout="centered")
 st.title("Power Generator")
